@@ -10,6 +10,8 @@ author: Ron Snyder
 
 Coligny Beach, located on the southern end of Hilton Head Island, is one of the most popular and accessible beaches in the Lowcountry. With its pristine white sand, gentle waves, and vibrant surrounding area, it makes for a perfect day trip from Sun City Hilton Head. Whether you’re looking to relax by the ocean, enjoy a leisurely bike ride along the coast, or explore local shops and restaurants, Coligny Beach offers something for everyone.
 
+---
+
 ## Morning: Departure from Sun City Hilton Head
 Begin your day early to take advantage of the cooler morning temperatures and avoid peak traffic. Coligny Beach is approximately 25 miles from Sun City Hilton Head, making for a 40- to 45-minute drive via US-278 E. To minimize congestion, especially during peak tourist seasons, consider taking Bluffton Parkway as an alternate route.
 
