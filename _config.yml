@@ -1,9 +1,9 @@
-title: Website Title
+title: SCHH Day Trips
 description: >
-  Website Description
-author:
-  name: GitHub User
-  email: your-email@domain.com
+  Day trips from Sun City Hilton Head.
+#author:
+  #name: GitHub User
+  #email: your-email@domain.com
 
 nav_pages:
   - about.md
