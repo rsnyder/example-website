@@ -6,4 +6,4 @@
 layout: home
 ---
 
-Welcome to SCHH Day Trips.  This site hosts itineraries for day trips from Sun City Hilton Head to interesting locations in the surrounding area.
+Welcome to **SCHH Day Trips**, your go-to resource for discovering exciting and memorable day trips from **Sun City Hilton Head**! Whether you're looking for a peaceful nature retreat, a beachside escape, a historic town to explore, or a new local adventure, this site is dedicated to helping you make the most of your time in the **Lowcountry and beyond**.
