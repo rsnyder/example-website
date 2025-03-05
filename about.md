@@ -21,7 +21,3 @@ Living in Sun City Hilton Head means having **a world of adventure at your doors
 We’re constantly adding new trips and updates, so be sure to check back often for fresh inspiration. If you have a favorite day trip you’d like to share, feel free to **reach out**—this site is all about building a community of explorers who love discovering the beauty of the Lowcountry and beyond.
 
 Let’s **hit the road** and start exploring!
-
----
-
-Would you like any adjustments or additions?
