@@ -6,6 +6,8 @@ date: 2025-03-05
 author: Ron Snyder
 ---
 
+`image wc:Plage-Hilton-Head-Island-6.JPG right`
+
 Coligny Beach, located on the southern end of Hilton Head Island, is one of the most popular and accessible beaches in the Lowcountry. With its pristine white sand, gentle waves, and vibrant surrounding area, it makes for a perfect day trip from Sun City Hilton Head. Whether you’re looking to relax by the ocean, enjoy a leisurely bike ride along the coast, or explore local shops and restaurants, Coligny Beach offers something for everyone.
 
 ## Morning: Departure from Sun City Hilton Head
