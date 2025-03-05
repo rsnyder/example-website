@@ -10,6 +10,8 @@ author: Ron Snyder
 
 Nestled between Hilton Head Island and the mainland of South Carolina, Pinckney Island National Wildlife Refuge is a pristine natural sanctuary offering breathtaking scenery, diverse wildlife, and a peaceful retreat into nature. Just a short drive from Sun City Hilton Head, this refuge is an ideal destination for a day trip, whether you’re a birdwatcher, a nature enthusiast, or simply looking for a relaxing outdoor escape. This guide outlines everything you need to know to make the most of your visit, including travel logistics, activities, and recommended routes.
 
+---
+
 ## Morning: Departure from Sun City Hilton Head
 Your adventure begins early in the morning to take advantage of the cooler temperatures and peak wildlife activity. Sun City Hilton Head is conveniently located about 25 miles from the refuge, making for an easy 35- to 40-minute drive via US-278 E. If you prefer a scenic route, consider taking Bluffton Parkway to avoid some of the heavier traffic on US-278. 
 
