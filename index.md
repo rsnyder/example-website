@@ -6,4 +6,4 @@
 layout: home
 ---
 
-Welcome to SCHH Day Trips.  This site hosts itineraries for day trips from Sun City Hilton to interesting locations in the surrounding area.
+Welcome to SCHH Day Trips.  This site hosts itineraries for day trips from Sun City Hilton Head to interesting locations in the surrounding area.
