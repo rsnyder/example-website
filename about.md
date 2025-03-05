@@ -3,14 +3,6 @@ layout: page
 title: About
 ---
 
-Here's a draft for your **About** page for the SCHH Day Trips blog site:
-
----
-
-Welcome to **SCHH Day Trips**, your go-to resource for discovering exciting and memorable day trips from **Sun City Hilton Head**! Whether you're looking for a peaceful nature retreat, a beachside escape, a historic town to explore, or a new local adventure, this site is dedicated to helping you make the most of your time in the **Lowcountry and beyond**.
-
-### Purpose
-
 SCHH Day Trips was created to inspire Sun City Hilton Head residents and visitors to **explore, experience, and enjoy** the incredible destinations within easy reach of our community. From the sandy shores of Hilton Head Island to the charming streets of Savannah and the hidden gems of the South Carolina Lowcountry, our goal is to provide detailed, engaging, and practical guides to help you plan your perfect getaway.
 
 ### What You’ll Find Here
